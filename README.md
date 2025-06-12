@@ -1,4 +1,4 @@
-# 🍽️ Delish Restaurant Project
+# 🍽️ Delish Restaurant Website
 
 A modern, responsive restaurant website built using HTML, CSS, PHP, and MySQL. The project provides essential features such as viewing the menu, making reservations, and contacting the restaurant – ideal for small businesses moving towards a digital presence.
 
